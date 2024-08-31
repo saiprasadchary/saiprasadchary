@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: saiprasadkomuroju@gmail.com
 
 
-[![Koumudi's github stats](https://github-readme-stats.vercel.app/api?username=saiprasadchary&show_icons=true&theme=tokyonight)](https://github.com/saiprasadchary/github-readme-stats)
+[![SaiPrasad's github stats](https://github-readme-stats.vercel.app/api?username=saiprasadchary&show_icons=true&theme=tokyonight)](https://github.com/saiprasadchary/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiprasadchary&layout=compact&theme=tokyonight)](https://github.com/saiprasadchary/github-readme-stats)
 
