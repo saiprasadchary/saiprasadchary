@@ -1,35 +1,21 @@
-# Hi there 👋, I'm Sai Prasad Komuroju!
+# Sai Prasad Komuroju
 
-Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and a lifelong learner. I love building innovative projects, solving challenging problems, and collaborating with the community.
+Software engineer focused on backend systems, full-stack applications, and AI-enabled products. I like turning ambiguous problems into practical software, with an emphasis on reliability, maintainability, and continuous learning as the stack evolves.
 
----
+## What I'm building
+- Backend services and APIs that prioritize clear contracts, resilience, and clean architecture
+- Full-stack applications with React, Python, and modern developer tooling
+- AI-enabled workflows and experiments around orchestration, retrieval, and applied machine learning
 
-## 🚀 About Me
-- 💻 Developer with experience in multiple programming languages and frameworks.
-- 🌱 Always learning new technologies and improving my skills.
-- 🤝 Open to collaboration and contributing to open-source projects.
-- 🎯 Strong interest in AI, Web Development, and Cloud Computing.
+## Selected projects
+- [the-roundtable](https://github.com/saiprasadchary/the-roundtable) — Multi-LLM orchestration MVP built with FastAPI and React.
+- [Secure_Private_AI](https://github.com/saiprasadchary/Secure_Private_AI) — Experiments in privacy-aware AI workflows and model evaluation.
+- [RAG_Project1](https://github.com/saiprasadchary/RAG_Project1) — Retrieval-augmented generation project for document-grounded question answering.
+- [saiprasadchary.github.io](https://github.com/saiprasadchary/saiprasadchary.github.io) — Personal portfolio website.
 
----
+## Working style
+I enjoy shipping useful software, learning quickly in unfamiliar domains, and staying current with tools that genuinely improve product and engineering velocity.
 
-## 🔧 Technologies & Tools
-- **Languages:** Python, JavaScript, Java, C++
-- **Frameworks:** React, Node.js, Django, Flask
-- **DevOps:** Docker, Kubernetes, GitHub Actions
-- **Cloud:** AWS, Azure, Google Cloud
-- **Databases:** MySQL, PostgreSQL, MongoDB
-
----
-
-## 📈 GitHub Stats
-![Sai Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saiprasadchary&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiprasadchary&layout=compact&theme=radical)
-
----
-
-## 🌐 Connect with Me
+## Connect
 - [LinkedIn](https://www.linkedin.com/in/saiprasadchary/)
-- [Twitter](https://twitter.com/saiprasadchary)
 - [Portfolio](https://saiprasadchary.github.io/)
-
-Feel free to reach out for collaboration or just to say hi! 😊
