@@ -17,5 +17,5 @@ Software engineer focused on backend systems, full-stack applications, and AI-en
 I enjoy shipping useful software, learning quickly in unfamiliar domains, and staying current with tools that genuinely improve product and engineering velocity.
 
 ## Connect
-- [LinkedIn](https://www.linkedin.com/in/saiprasadchary/)
+- [LinkedIn](https://www.linkedin.com/in/saiprasadkomuroju/)
 - [Portfolio](https://saiprasadchary.github.io/)
